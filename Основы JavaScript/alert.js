@@ -1,0 +1,1 @@
+alert("Я JavaScript!"); // вызвать в DevTools в консоле разработчика
